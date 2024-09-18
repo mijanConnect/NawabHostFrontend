@@ -503,7 +503,7 @@ img {
     ##  Hero
     --------------------------------------------------------------*/
 .hero__image {
-	background: url("/assets/css/hero-img.png");
+	background: url("hero-img.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -674,7 +674,7 @@ img {
     ##  Hero
     --------------------------------------------------------------*/
 .hero-2__image {
-	background: url("/media/hero/hero-img-2.png");
+	background: url("hero-img-2.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -753,7 +753,7 @@ img {
     ##  Hero Domain
     --------------------------------------------------------------*/
 .hero-domain__image {
-	background: url("/media/hero/hero-img-2.png");
+	background: url("hero-img-2.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1164,7 +1164,7 @@ img {
 }
 .domain-search__overlay {
 	position: absolute;
-	background: url("/media/domain-search/domain-search-bg.png");
+	background: url("domain-search-bg.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1570,7 +1570,7 @@ img {
 }
 .call-to-action__overlay {
 	position: absolute;
-	background: url("/media/call-to-action/call-to-action-bg.png");
+	background: url("call-to-action-bg.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -2235,7 +2235,7 @@ img {
 }
 .nawab-funfact__overlay {
 	position: absolute;
-	background: url("/media/funfact/funfact-bg.png");
+	background: url("funfact-bg.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -4372,7 +4372,7 @@ tr {
 	}
 }
 .login__overlay {
-	background: url("/media/login-form/login-form-bg.png");
+	background: url("login-form-bg.png");
 	position: absolute;
 	background-position: top center;
 	background-repeat: no-repeat;
@@ -4678,7 +4678,7 @@ tr {
 	}
 }
 .login__overlay {
-	background: url("/media/login-form/login-form-bg.png");
+	background: url("login-form-bg.png");
 	position: absolute;
 	background-position: top center;
 	background-repeat: no-repeat;
