@@ -503,7 +503,7 @@ img {
     ##  Hero
     --------------------------------------------------------------*/
 .hero__image {
-	background: url(".../media/hero/hero-img.png");
+	background: url("/media/hero/hero-img.png");
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: cover;
