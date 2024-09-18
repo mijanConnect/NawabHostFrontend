@@ -502,8 +502,8 @@ img {
 /*--------------------------------------------------------------
     ##  Hero
     --------------------------------------------------------------*/
-.hero__image {
-	/* background: url("/media/hero/hero-img.png"); */
+/* .hero__image {
+	background: url("/media/hero/hero-img.png");
 	background-image: url("/media/hero/hero-img.png");
 	background-position: top center;
 	background-repeat: no-repeat;
@@ -517,6 +517,24 @@ img {
 }
 @media only screen and (max-width: 600px) {
 	.hero__image {
+		height: 90vh;
+	}
+} */
+
+.new-hero-img{
+	background-image: url("/media/hero/hero-img.png");
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	width: 100%;
+	-webkit-animation: introload 1.5s forwards;
+	        animation: introload 1.5s forwards;
+}
+@media only screen and (max-width: 600px) {
+	.new-hero-img {
 		height: 90vh;
 	}
 }
